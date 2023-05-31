@@ -1,0 +1,203 @@
+ <section class="services-area bg-navy">
+        <div class="container">
+            <!-- section title -->
+            <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
+                <div class="col-md-8">
+                    <div class="sectionTitle text-center text-white">
+                        <h2 class="text-white">Wealth Planning:
+                            Investir olhando para o que importa na vida do cliente</h2>
+                        <p>Temos uma abordagem holística do patrimônio das famílias, buscando soluções diferenciadas e visando a preservação do seu legado para as próximas gerações.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- section title ends -->
+            <div class="row">
+                <div class="col-md-6 col-lg-4">
+                    <div class="media-box">
+                        <div class="media-icon">
+                            <i class="fa fa-line-chart"></i>
+                        </div>
+                        <div class="media-content">
+                            <a href="service-details-left-sidebar.html">
+                                <h4 class="text-white">Planejamento Sucessório</h4>
+                            </a>
+                            <p>Avaliação do contexto familiar e patrimonial, visando uma transmissão organizada e eficiente dos recursos aos sucessores, evitando conflitos de maneira preventiva e respeitando a vontade do titular.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="media-box">
+                        <div class="media-icon">
+                            <i class="fa fa-credit-card"></i>
+                        </div>
+                        <div class="media-content">
+                            <a href="service-details-right-sidebar.html">
+                                <h4 class="text-white">Otimização fiscal</h4>
+                            </a>
+                            <p>Análise criteriosa do patrimônio do núcleo familiar e corporativo, em busca de soluções que otimizem a estrutura fiscal, considerando a legislação das diferentes jurisdições.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="media-box">
+                        <div class="media-icon">
+                            <i class="fa fa-bar-chart-o"></i>
+                        </div>
+                        <div class="media-content">
+                            <a href="service-details-fullwidth.html">
+                                <h4 class="text-white">Proteção patrimonial</h4>
+                            </a>
+                            <p>Avaliação de instrumentos que viabilizem a preservação do seu legado, como previdência e seguros.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="media-box">
+                        <div class="media-icon">
+                            <i class="fa-solid fa-chart-pie"></i>
+                        </div>
+                        <div class="media-content">
+                            <a href="service-details-left-sidebar.html">
+                                <h4 class="text-white">Gestão global e personalizada</h4>
+                            </a>
+                            <p>Abordagem global, independente da instituição e tipo de ativo, sobre o patrimônio de cada núcleo familiar, adaptado às necessidades individuais.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="media-box">
+                        <div class="media-icon">
+                            <i class="fa fa-address-card-o"></i>
+                        </div>
+                        <div class="media-content">
+                            <a href="service-details-right-sidebar.html">
+                                <h4 class="text-white">Consolidação do patrimônio</h4>
+                            </a>
+                            <p>Análise completa da carteira de investimentos, por meio de um relatório único com toda a evolução patrimonial, alocações e rentabilidades.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="media-box">
+                        <div class="media-icon">
+                            <i class="fa fa-cogs" aria-hidden="true"></i>
+                        </div>
+                        <div class="media-content">
+                            <a href="service-details-fullwidth.html">
+                                <h4 class="text-white">Educação financeira & ESG</h4>
+                            </a>
+                            <p>Programa de capacitação financeira, formação de sucessores e assessoria sobre investimentos sociais, ambientais e em governança.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+
+    <section class="services-area" style="background-color: #ffffff;">
+        <div class="container">
+            <!-- section title ends -->
+            <div class="row">
+                <div class="col-md-12 ">
+                    <div class="media-box">
+                        <div class="media-icon">
+                            <i class="fa fa-line-chart"></i>
+                        </div>
+                        <div class="media-content">
+                            <a href="service-details-left-sidebar.html">
+                                <h4 class="text-dark">Planejamento Sucessório</h4>
+                            </a>
+                            <p>Avaliação do contexto familiar e patrimonial, visando uma transmissão organizada e eficiente dos recursos aos sucessores, evitando conflitos de maneira preventiva e respeitando a vontade do titular.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <div class="media-box">
+                        <div class="media-icon">
+                            <i class="fa fa-credit-card"></i>
+                        </div>
+                        <div class="media-content">
+                            <a href="service-details-right-sidebar.html">
+                                <h4 class="text-dark">Otimização fiscal</h4>
+                            </a>
+                            <p>Análise criteriosa do patrimônio do núcleo familiar e corporativo, em busca de soluções que otimizem a estrutura fiscal, considerando a legislação das diferentes jurisdições.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 ">
+                    <div class="media-box">
+                        <div class="media-icon">
+                            <i class="fa fa-bar-chart-o"></i>
+                        </div>
+                        <div class="media-content">
+                            <a href="service-details-fullwidth.html">
+                                <h4 class="text-dark">Proteção patrimonial</h4>
+                            </a>
+                            <p>Avaliação de instrumentos que viabilizem a preservação do seu legado, como previdência e seguros.</p>
+                        </div>
+                    </div>
+                </div>  
+            </div>
+        </div>  
+    </section>
+
+
+    <section class="more-feature">
+        <div class="container">
+            <div class="row" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
+                <div class="col-md-12 m-auto">
+                    <div class="more-feature-left">
+                        <div class="sectionTitle gap-3">
+                            <h2 class="text-center">Visão holística e isenta do portfólio global</h2>
+                            <p class="text-center">Por meio de um processo de gestão customizada para cada núcleo familiar, a WHG atua sobre o patrimônio total, independente de onde os recursos estejam alocados.</p>
+                        </div>
+                        <div class="more-features">
+                            <div class="feature-icon" style="border:none;">
+                               <img src="img/icone_gestao-global.svg" alt="">
+                            </div>
+                            <div class="feature-details">
+                                <h4>Gestão global e personalizada</h4>
+                                <p>Abordagem global, independente da instituição e tipo de ativo, sobre o patrimônio de cada núcleo familiar, adaptado às necessidades individuais.</p>
+                            </div>
+                        </div>
+                        <div class="more-features">
+                            <div class="feature-icon" style="border:none;">
+                                <img src="img/icone_consolidacao.svg" alt="">
+                            </div>
+                            <div class="feature-details">
+                                <h4>Consolidação do patrimônio</h4>
+                                <p>Análise completa da carteira de investimentos, por meio de um relatório único com toda a evolução patrimonial, alocações e rentabilidades.</p>
+                            </div>
+                        </div>
+                        <div class="more-features">
+                            <div class="feature-icon" style="border:none;">
+                                <img src="img/icone_educacao.svg" alt="">
+                            </div>
+                            <div class="feature-details">
+                                <h4>Educação financeira & ESG</h4>
+                                <p>Programa de capacitação financeira, formação de sucessores e assessoria sobre investimentos sociais, ambientais e em governança.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <section class="more-feature mt-0 pt-0">
+        <div class="container">
+            <div class="row" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
+                <div class="col-md-12 d-flex flex-column">
+                    <img class="mb-3" src="img/icone-aviso.svg" alt="" style="width: 3%;">
+                    <span class="text-left">Nossos especialistas têm capacidade para assessorar os clientes em questões patrimoniais e para ajudar a indentificar necessidades relativas a questões financeiras. Os clientes devem consultar profissionais especializados e independentes em caso de eventuais necessidades e questões relativas a aspecto tributários e de sucessão. A WHG não se responsabiliza por decisões do cliente sobre esses temas, tampouco por ato ou fato dos profissionais por ele consultados. A WHG não assume responsabilidade pela conclusão das operações descritas neste documento, e seu conteúdo não deve ser interpretado como aconselhamento financeiro, tributário, fiscal ou jurídico.</span>
+            </div>
+        </div>
+    </section>
